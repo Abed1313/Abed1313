@@ -1,4 +1,4 @@
-# Hello, I'm Abed AL-Rahman Radwan :male-technologist:
+# Hello, I'm Abed AL-Rahman Radwan 👨‍💻 :
 Welcome to my GitHub profile! I'm a **Software Engineer** with a passion for **problem-solving** and creating high-quality code.
 I enjoy working with cutting-edge technologies and am always striving to learn and grow as a developer. :rocket:
 With experience in various programming languages and frameworks, I thrive in collaborative, high-paced environments and aim to build impactful solutions.
