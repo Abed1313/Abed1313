@@ -55,6 +55,8 @@ Feel free to explore my repositories, check out my projects, and connect with me
 ![Abed GitHub stats](https://github-readme-stats.vercel.app/api?username=Abed1313&show_icons=true&theme=radical)
 ## :globe_with_meridians: Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abed1313&layout=compact&theme=radical)
+## :bar_chart: GitHub Activity Graph
+![Abed Activity Graph](https://activity-graph.herokuapp.com/graph?username=Abed1313&theme=radical)
 ---
 ## :mailbox: How to Reach Me:
 - :e-mail: **Email:** [abedalrahmanradwanaar@gmail.com](abedalrahmanradwanaar@gmail.com)
